@@ -1,0 +1,6 @@
+Name = John
+class = 6
+desired income = $500k
+desired country = Japan
+favorite thing about a woman = her femininity
+favorite desert = German chocolate cake
